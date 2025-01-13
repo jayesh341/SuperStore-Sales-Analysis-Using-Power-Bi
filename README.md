@@ -2,7 +2,8 @@
 
 Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/3b02569b-b0a1-46fc-b3af-84ca2d3810ff)
+![image](https://github.com/user-attachments/assets/f6a03135-7a8c-441d-9e06-707397cf8173)
+
 
 
 
